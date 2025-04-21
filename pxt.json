@@ -8,7 +8,9 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "assets.json"
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts"
     ],
     "testFiles": [
         "test.ts"
@@ -37,6 +39,6 @@
         "#5F574F",
         "#FFCCAA",
         "#AB5236",
-        "#1D2B53"
+        "#000000"
     ]
 }
